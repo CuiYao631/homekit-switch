@@ -38,7 +38,7 @@
 
 ### HomeKit 配对二维码
 
-![HomeKit 配对二维码](https://api.qrserver.com/v1/create-qr-code/?data=X-HM://DENG46637726&size=180x180)
+![HomeKit 配对二维码](/lightbulb_qr.png)
 
 > 若二维码无法识别，可手动输入配对码：`46637726`
 
